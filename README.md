@@ -21,3 +21,5 @@ The persistence component of the project is met through the highScore class and 
 Whenever a game is won by the player, their score is written down on a new line in the txt file. 
 Each time after the game ends, the scores file is read line-by-line to determine the highest score value and is displayed when the game ends.
 
+Watch a demo:
+https://www.youtube.com/watch?v=fTyNFHhffNE 
